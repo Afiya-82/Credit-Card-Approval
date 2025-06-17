@@ -82,11 +82,11 @@ ii) 'Bad_Debt' > 'Neutral_Debt'
 Support Vector Machine, Logistic Regression and Multi-Layer Perceptron Models gave the joint-most accuracy score. (~ 99.5 %)
 
 # Decision Tree Model gave the worst accuracy score. (~ 99.1 %)
-------
+
 <img width="400" alt="172546817-b184fbfe-87f3-4af4-a42b-9f53558ab174" src="https://github.com/user-attachments/assets/ece3d751-16bd-4a99-8472-3b964b159c1d" />
 
 # Confusion Matrices and Classification Reports are also included for all of the models.
------
+
 <img width="431" alt="172546887-20c8445c-e7ed-4b9b-b78a-fb4fcc1ff33d" src="https://github.com/user-attachments/assets/0c5bf7a0-0753-40e3-a56c-152535708691" />
 
 
